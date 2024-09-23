@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Isabela!
+# 💫 Hi, I'm Isabela!👋
 🔭 Currently studying Computer Enginnering at the [Federal Technological University of Paraná](https://www.utfpr.edu.br/), Brazil <br/>
 ⛩️ Also improving my japanese (N4)<br/>
 
