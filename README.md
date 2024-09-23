@@ -3,7 +3,7 @@
 ⛩️ Also improving my japanese (N4)<br/>
 
 # 🔍 Check out my projects: 
-- [Calculator and Iris dataset analysis- AI Project]](https://calculadorabortoleto.streamlit.app/)
+- [Calculator and Iris dataset analysis- AI Project](https://calculadorabortoleto.streamlit.app/)
 - [Arboretum - Electronics Project](https://github.com/IsaBellaBortoleto/UTFPR/tree/main/Arboretum)
 
 # 💻 Tech Stack:
