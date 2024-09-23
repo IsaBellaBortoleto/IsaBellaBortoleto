@@ -1,5 +1,5 @@
 # 💫 Hi, I'm Isabela!👋
-🔭 Currently studying Computer Enginnering at the [Federal Technological University of Paraná](https://www.utfpr.edu.br/), Brazil <br/>
+🔭 Currently studying Computer Enginnering at the [Federal University of Technology - Parana](https://www.utfpr.edu.br/), Brazil <br/>
 ⛩️ Also improving my japanese (N4)<br/>
 
 # 🔍 Check out my projects: 
