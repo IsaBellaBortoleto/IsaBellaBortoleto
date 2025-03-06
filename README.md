@@ -4,7 +4,9 @@
 
 # 🔍 Check out my projects 
 
-### AI/Data Science
+## 🌐 AI/Data Science
+- [GraviryRooms]([https://github.com/IsaBellaBortoleto/AirDrums](https://github.com/NicolasAuersvalt/GravityRooms))  
+*(Jogo desenvolvido em C++)*
 - [Calculator and Iris dataset analysis - AI Project](https://calculadorabortoleto.streamlit.app/)
 
 ## 🔌 Electronics Projects
