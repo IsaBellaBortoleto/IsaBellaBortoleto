@@ -4,7 +4,11 @@
 
 # 🔍 Check out my projects: 
 - [Calculator and Iris dataset analysis- AI Project](https://calculadorabortoleto.streamlit.app/)
-- [Arboretum - Electronics Project](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)
+
+
+# 🔍 Electronics Projects: 
+- [AirDrums](https://github.com/IsaBellaBortoleto/AirDrums)
+- [Arboretum](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
