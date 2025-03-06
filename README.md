@@ -2,13 +2,16 @@
 🔭 Currently studying Computer Enginnering at the [Federal University of Technology - Parana](https://www.utfpr.edu.br/), Brazil <br/>
 ⛩️ Also improving my japanese (N4)<br/>
 
-# 🔍 Check out my projects: 
-- [Calculator and Iris dataset analysis- AI Project](https://calculadorabortoleto.streamlit.app/)
+# 🔍 Check out my projects 
 
+### AI/Data Science
+- [Calculator and Iris dataset analysis - AI Project](https://calculadorabortoleto.streamlit.app/)
 
-# 🔍 Electronics Projects: 
-- [AirDrums](https://github.com/IsaBellaBortoleto/AirDrums)
-- [Arboretum](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)
+## 🔌 Electronics Projects
+- [AirDrums](https://github.com/IsaBellaBortoleto/AirDrums)  
+*(Bateria virtual controlada por movimentos com ESP32)*
+- [Arboretum](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)  
+*(Sistema de monitoramento de plantas com sensores)*
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
