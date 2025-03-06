@@ -2,10 +2,10 @@
 🔭 Currently studying Computer Enginnering at the [Federal University of Technology - Parana](https://www.utfpr.edu.br/), Brazil <br/>
 ⛩️ Also improving my japanese (N4)<br/>
 
-# 🔍 Check out my projects 
+# 🔍 Check out my projects:
 
 ## 🌐 AI/Data Science
-- [GraviryRooms]([https://github.com/IsaBellaBortoleto/AirDrums](https://github.com/NicolasAuersvalt/GravityRooms))  
+- [GravityRooms](https://github.com/NicolasAuersvalt/GravityRooms)  
 *(Jogo desenvolvido em C++)*
 - [Calculator and Iris dataset analysis - AI Project](https://calculadorabortoleto.streamlit.app/)
 
