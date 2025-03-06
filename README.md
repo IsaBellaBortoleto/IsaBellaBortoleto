@@ -6,14 +6,15 @@
 
 ## 🌐 AI/Data Science
 - [GravityRooms](https://github.com/NicolasAuersvalt/GravityRooms)  
-*(Jogo desenvolvido em C++)*
-- [Calculator and Iris dataset analysis - AI Project](https://calculadorabortoleto.streamlit.app/)
+*(Game developed in C++)*
+- [Calculator and Iris Dataset Analysis](https://calculadorabortoleto.streamlit.app/)  
+*(Data analysis + Iris flower classification model)*
 
 ## 🔌 Electronics Projects
 - [AirDrums](https://github.com/IsaBellaBortoleto/AirDrums)  
-*(Bateria virtual controlada por movimentos com ESP32)*
+*(Virtual drum kit controlled by motion using ESP32)*
 - [Arboretum](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)  
-*(Sistema de monitoramento de plantas com sensores)*
+*(Plant monitoring system with sensors)*
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
