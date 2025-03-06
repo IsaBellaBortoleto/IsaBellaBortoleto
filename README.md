@@ -2,19 +2,30 @@
 🔭 Currently studying Computer Enginnering at the [Federal University of Technology - Parana](https://www.utfpr.edu.br/), Brazil <br/>
 ⛩️ Also improving my japanese (N4)<br/>
 
-# 🔍 Check out my projects:
+# 🔍 Check out my projects
 
-## 🌐 AI/Data Science
+<table>
+  <tr>
+    <td width="50%" valign="top">
+
+## 🌐 AI/Data Science  
 - [GravityRooms](https://github.com/NicolasAuersvalt/GravityRooms)  
-*(Game developed in C++)*
+*(Game developed in C++)*  
 - [Calculator and Iris Dataset Analysis](https://calculadorabortoleto.streamlit.app/)  
-*(Data analysis + Iris flower classification model)*
+*(Data analysis + Iris flower classification model)*  
 
-## 🔌 Electronics Projects
+    </td>
+    <td width="50%" valign="top">
+
+## 🔌 Electronics Projects  
 - [AirDrums](https://github.com/IsaBellaBortoleto/AirDrums)  
-*(Virtual drum kit controlled by motion using ESP32)*
+*(Virtual drum kit controlled by motion using ESP32)*  
 - [Arboretum](https://github.com/IsaBellaBortoleto/UTFPR/blob/5f7e1228ab3bf1c1e42d204be3814ac6cc9ec2e0/1%20Periodo/Arboretum)  
-*(Plant monitoring system with sensors)*
+*(Plant monitoring system with sensors)*  
+
+    </td>
+  </tr>
+</table>
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
