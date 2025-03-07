@@ -11,7 +11,7 @@
 ## 🌐 AI/Data Science  
 - [GravityRooms](https://github.com/NicolasAuersvalt/GravityRooms)  
 *(Game developed in C++)*  
-- [Calculator and Iris Dataset Analysis](https://calculadorabortoleto.streamlit.app/)  
+- [Calculator and Iris Dataset Analysis](https://calculadorairis.streamlit.app/)
 *(Data analysis + Iris flower classification model)*  
 
     </td>
