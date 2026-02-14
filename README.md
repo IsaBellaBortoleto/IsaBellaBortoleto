@@ -7,6 +7,10 @@
 <table>
   <tr>
     <td width="50%" valign="top">
+      
+## 🍔 Web / Full Stack Projects
+- [Digital Menu System](https://github.com/IsaBellaBortoleto/Menu)  
+*(Responsive digital menu for restaurants with order management, status tracking and admin panel — Django + MySQL)*  
 
 ## 🌐 AI/Data Science  
 - [GravityRooms](https://github.com/NicolasAuersvalt/GravityRooms)  
