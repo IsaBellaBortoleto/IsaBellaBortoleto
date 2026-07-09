@@ -29,9 +29,9 @@
 ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IsaBellaBortoleto&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IsaBellaBortoleto&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaBellaBortoleto&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=IsaBellaBortoleto&theme=radical&hide_border=false&include_all_commits=true&count_private=false&cache_seconds=86400)<br/>
+![](https://streak-stats.demolab.com/?user=IsaBellaBortoleto&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=IsaBellaBortoleto&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact&cache_seconds=86400)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=IsaBellaBortoleto&theme=radical&no-frame=false&no-bg=true&margin-w=4)
